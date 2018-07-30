@@ -76,7 +76,7 @@ MIT 및 GNU GPL V3 의 Lesser 를 적용합니다.
 ## 3. 기존 금융시스템과의 연계방안.
 
   ### Fig. 노드 / Payment Gateway 연계 방안.
-  ![](assets/payment-node-interface.PNG)
+  ![](https://github.com/tao-foundation/i-seoul-u-payment-system/raw/master/assets/payment-node-interface.PNG)
 
  ### 파생 연계 산업 리스트
 
