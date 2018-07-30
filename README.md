@@ -1,5 +1,23 @@
 # I-Seoul-U Payment System
 
+- [I-Seoul-U Payment System](#i-seoul-u-payment-system)
+  * [1. Executive Summary](#1-executive-summary)
+  * [2. 기존 VAN 과의 시스템 구조의 차이점.](#2----van---------------)
+    + [기존 VAN](#---van)
+      - [BM관점 독점과 고비용초래](#bm------------)
+    + [제한된 Private 체인](#----private---)
+      - [BM관점 다양한 ECO가능 -> 2차,3차 파생서비스 산업가능](#bm-------eco------2--3------------)
+  * [3. 기존 금융시스템과의 연계방안.](#3----------------)
+    + [Fig. 노드 / Payment Gateway 연계 방안.](#fig------payment-gateway------)
+    + [파생 연계 산업 리스트](#------------)
+  * [Copyright](#copyright)
+
+
+------------------------------
+<br>
+
+[PowerPoint 작성글은 여기를 클릭하셔서 다운로드 받으세요.](documents/서울시-카드수수료0프로-결제시스템 아키텍쳐-v0.5.pptx)
+
 본 제안서는 대한민국의 소.상공인에게 수수료 0% 의 결제 시스템을 도입하고자 하는 서울시에 제안하는 시스템입니다.
 
 아울러, 본 제안서는 그 어떤 카피라이트 , 특허 License 가 없습니다.
