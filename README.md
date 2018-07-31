@@ -42,6 +42,10 @@ MIT 및 GNU GPL V3 의 Lesser 를 적용합니다.
 
 ## 2. 기존 VAN 과의 시스템 구조의 차이점.
 
+ ### Fig. 중앙화VAN vs 분산화 0% 블록체인.
+  ![](https://github.com/tao-foundation/i-seoul-u-payment-system/raw/master/assets/diff-van-vs-private-blockchain.png)
+
+
  ### 기존 VAN 
 
  1) 중앙화
@@ -72,6 +76,8 @@ MIT 및 GNU GPL V3 의 Lesser 를 적용합니다.
   1) 통계정보의 공개화로
   2) 3rd party 응용및 통계서비스 활성화
   3) 개인정보보안성 극대화
+
+
 
 ## 3. 기존 금융시스템과의 연계방안.
 
